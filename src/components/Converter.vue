@@ -35,10 +35,8 @@ function converter(binary: string){
             }
 
         lenOfBinary--
-        console.log(lenOfBinary)
         }
     }
-    console.log(binValue)
 
 
     for (let i = 0; i < binValue.length; i++) {
